@@ -36,7 +36,7 @@ top
 7                 
 pop               -1
 top               -1
-push              123 
+push 123          123 
 top               123
 pop               -1
 top               -1
